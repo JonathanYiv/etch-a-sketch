@@ -4,7 +4,7 @@ This project builds an etch-a-sketch that can be painted using your mouse and cl
 
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project).
 
-Screenshot...
+![Screenshot of Project](assets/images/screenshot.png)
 
 ## Pre-Project Thoughts
 
@@ -19,4 +19,13 @@ This time I have a much stronger understanding of JavaScript and programming in 
 
 ## Post-Project Thoughts
 
-...
+Wow.
+The first time I did this, I used jQuery and wasn't familiar with Javascript at all.
+
+I definitely see the value in learning the language before the framework.
+
+JavaScript is very powerful for doing stuff to the DOM.
+
+My code isn't very DRY this time around, but I'm barreling through.
+
+I wanted to hammer the concepts and methods in more than anything.
