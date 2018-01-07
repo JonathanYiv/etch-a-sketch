@@ -9,9 +9,12 @@ Screenshot...
 ## Pre-Project Thoughts
 
 I am doing this project after having gone significantly forward in the curriculum.
+
 They recently added the JS101 section with a revamped version of this project.
+
 I plan on using CSS Grid for the first time this time.
 The last time I did this project can be found [here](https://github.com/JonathanYiv/sketchpad).
+
 This time I have a much stronger understanding of JavaScript and programming in general.
 
 ## Post-Project Thoughts

@@ -1,0 +1,80 @@
+/*
+1) Positioning
+2) Display and Box Model
+3) Color
+4) Text
+5) Other
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+body {
+  background-image: url("../images/wood.jpg");
+}
+
+h1 {
+  font-size: calc(16px + 2vw);
+  line-height: 2em;
+}
+
+.etch-a-sketch {
+  height: 55vh;
+  width: 75vw;
+  margin: 0 auto;
+  margin-top: 22vh;
+  background: #C81920;
+  border-radius: 1em;
+  text-align: center;
+}
+
+.container {
+  height: 35vh;
+  width: 60vw;
+  margin: 0 auto;
+  background: darkgrey;
+  border-radius: 1em;
+  box-shadow: .3vw .3vh #404040 inset;
+}
+
+.pad {
+  width: 8vh;
+  height: 8vh;
+  background: #F0FFFF;
+  border-radius: 8vh;
+  box-shadow: .15vw .15vw #808080;
+}
+
+svg {
+  margin-top: 1.5vh;
+  border-radius: 5vw;
+  box-shadow: .08vw .08vw #808080;
+  color: #F0FFFF;
+}
+
+.pad:active, svg:active {
+  box-shadow: .25vw .25vw #710e11 inset;
+}
+
+svg:active {
+  box-shadow: 10vw 10vw #710e11 inset;
+}
+
+.left {
+  float: left;
+  margin-left: 1vw;
+}
+
+.right {
+  float: right;
+  margin-right: 1vw;
+}
+
+.grid-size {
+  font-size: 4em;
+}
